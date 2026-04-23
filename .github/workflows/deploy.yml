@@ -15,10 +15,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: yarn install --immutable --immutable-cache
+          cache: yarn
 
       - name: Install dependencies
-        run: yarn
+        run: yarn install --immutable --immutable-cache
 
       - name: build
         env:
