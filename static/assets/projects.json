@@ -2,7 +2,7 @@
 	{
 		"name": "Когда плачут деревья",
 		"description": "Мини-фильм для детей о том, как маленькая девочка помогает хранителю леса защитить природу.",
-		"thumbnail": "/assets/thumbnails/when-trees-cry.jpg",
+		"thumbnail": "./assets/thumbnails/when-trees-cry.jpg",
 		"complexity": 4,
 		"stack": ["Adobe Animate", "JavaScript", "Paint Tool SAI"],
 		"style": {
@@ -13,7 +13,7 @@
 	{
 		"name": "ECOKIDS",
 		"description": "Сайт для детей об экологии, задача которого в игровом и интерактивном формате рассказать о важности защиты природы.",
-		"thumbnail": "/assets/thumbnails/ecokids.png",
+		"thumbnail": "./assets/thumbnails/ecokids.png",
 		"complexity": 2,
 		"stack": ["HTML", "CSS", "JavaScript"],
 		"style": {
@@ -24,7 +24,7 @@
 	{
 		"name": "SlayClay",
 		"description": "Сайт студии по лепке из глины, керамики и пр. Сайт предлагает изготовить собственноручно изделия, продать их, заказать необычные изделия, посетить мастер-класс и проконсультироваться со специалистом.",
-		"thumbnail": "/assets/thumbnails/slayclay.png",
+		"thumbnail": "./assets/thumbnails/slayclay.png",
 		"complexity": 3,
 		"stack": ["HTML", "CSS", "JavaScript"],
 		"style": {
@@ -35,7 +35,7 @@
 	{
 		"name": "CURIO / Видео",
 		"description": "Демонстрационный ролик робота-экскурсовода с наглядным представлением его функций, внешнего вида и наполнения.",
-		"thumbnail": "/assets/thumbnails/curio-promo.png",
+		"thumbnail": "./assets/thumbnails/curio-promo.png",
 		"complexity": 5,
 		"stack": ["Adobe After Effects", "Blender", "Figma"],
 		"style": {
@@ -46,7 +46,7 @@
 	{
 		"name": "CURIO / Документация",
 		"description": "Документация в виде журнала о разработке робота-экскурсовода со схемами, картинками и объяснениями.",
-		"thumbnail": "/assets/thumbnails/curio-docs.png",
+		"thumbnail": "./assets/thumbnails/curio-docs.png",
 		"complexity": 4,
 		"stack": ["Adobe InDesign", "Adobe Illustrator", "Adobe Photoshop", "Figma", "Paint Tool SAI"],
 		"style": {
@@ -57,7 +57,7 @@
 	{
 		"name": "CURIO / Постер",
 		"description": "Рекламно-информационный постер робота-экскурсовода.",
-		"thumbnail": "/assets/thumbnails/curio-poster.jpg",
+		"thumbnail": "./assets/thumbnails/curio-poster.jpg",
 		"complexity": 3,
 		"stack": ["Figma", "Paint Tool SAI"],
 		"style": {
@@ -68,7 +68,7 @@
 	{
 		"name": "Садовод",
 		"description": "Аркадный шутер от третьего лица, где необходимо выжить волны овощей-монстров.",
-		"thumbnail": "/assets/thumbnails/gardener.png",
+		"thumbnail": "./assets/thumbnails/gardener.png",
 		"complexity": 4,
 		"stack": ["C++", "SFML", "Adobe Photoshop"],
 		"style": {
@@ -79,7 +79,7 @@
 	{
 		"name": "Найди себя",
 		"description": "Сюжетная пиксельная игра-платформер представляет собой компьютерную игру, в котором игрок управляет персонажем, передвигающимся по двухмерным уровням, преодолевая препятствия и взаимодействуя с различными объектами.",
-		"thumbnail": "/assets/thumbnails/cat.png",
+		"thumbnail": "./assets/thumbnails/cat.png",
 		"complexity": 5,
 		"stack": ["Adobe Photoshop", "Python", "Pygame"],
 		"style": {
@@ -90,7 +90,7 @@
 	{
 		"name": "Накорми меня",
 		"description": "Демонстрационный видеоролик игры-платформера с хорошей концовкой и представлением взаимодействия с игрой.",
-		"thumbnail": "/assets/thumbnails/capybara.png",
+		"thumbnail": "./assets/thumbnails/capybara.png",
 		"complexity": 2,
 		"stack": ["Adobe Photoshop", "Paint Tool SAI", "Adobe After Effects"],
 		"style": {
@@ -101,7 +101,7 @@
 	{
 		"name": "Любимая игрушка",
 		"description": "Видео про любимую плюшевую игрушку, в котором используются инструменты составления графиков движения видео.",
-		"thumbnail": "/assets/thumbnails/favorite-toy.png",
+		"thumbnail": "./assets/thumbnails/favorite-toy.png",
 		"complexity": 1,
 		"stack": ["Adobe Premiere Pro"],
 		"style": {
@@ -112,7 +112,7 @@
 	{
 		"name": "Типографа пейзаж",
 		"description": "Фото-проект в виде книги, который является важным напоминанием о символике кириллицы.",
-		"thumbnail": "/assets/thumbnails/typography.png",
+		"thumbnail": "./assets/thumbnails/typography.png",
 		"complexity": 3,
 		"stack": ["Adobe Photoshop"],
 		"style": {
