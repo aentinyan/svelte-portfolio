@@ -15,7 +15,7 @@ async function loadProjects(): Promise<Project[]> {
 		return storedProjects;
 	}
 
-	return await (await fetch("/assets/projects.json")).json();
+	return await (await fetch("./assets/projects.json")).json();
 }
 
 export const load: PageLoad = async () => {
